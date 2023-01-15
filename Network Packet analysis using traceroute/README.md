@@ -5,4 +5,4 @@ This Project contains a Python script called trstats.py upon running with requir
 use **pip3 install requirements.txt** to install all the requirements
 
 
-** The code is well maintained and the functions are self explanatory and well commented suggesting their usecase in the flow of execution **
+**The code is well maintained and the functions are self explanatory and well commented suggesting their usecase in the flow of execution**
